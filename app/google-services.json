@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "686630599547",
+    "project_id": "login-application-df56e",
+    "storage_bucket": "login-application-df56e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686630599547:android:98791a22b37af09f769bde",
+        "android_client_info": {
+          "package_name": "com.example.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPJLd7HcFc_u8Hz8Y9FAGQJazeHFOgG5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686630599547:android:ea5583355ab8caf2769bde",
+        "android_client_info": {
+          "package_name": "com.example.loginapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPJLd7HcFc_u8Hz8Y9FAGQJazeHFOgG5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
